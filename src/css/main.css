@@ -12,3 +12,12 @@ h1{
 hr{
     color: red;
 }
+    
+ .item{
+background-color: antiquewhite;
+color: dark blue;
+ }
+
+ ul{
+    margin: auto;
+ }
