@@ -1,0 +1,6 @@
+@import url(./reset.css);
+
+h1{
+    color: blue;
+    font-size: 30px;
+}
